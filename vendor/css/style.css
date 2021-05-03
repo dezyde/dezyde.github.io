@@ -1,0 +1,9 @@
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.imgnew{
+    width: 150px;
+    height: 150px;
+}
